@@ -1,0 +1,12 @@
+DEFINED_PHASES=unpack
+DEPEND=net-im/pidgin >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Slack module for libpurple
+EAPI=6
+HOMEPAGE=https://github.com/dylex/slack-libpurple
+INHERIT=git-r3
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=net-im/pidgin
+SLOT=0
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_md5_=56e3f9dc8cc7750b9119e220f43c1261

@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=dev-python/paho-mqtt dev-lang/python:*[ssl]
+DESCRIPTION=A Nagios/Icinga plugin for testing an MQTT broker
+EAPI=7
+HOMEPAGE=https://github.com/jpmens/check-mqtt
+INHERIT=git-r3
+LICENSE=BSD
+PROPERTIES=live
+RDEPEND=dev-python/paho-mqtt dev-lang/python:*[ssl]
+SLOT=0
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_md5_=ee711aaa90fcaa45df825cca53433af4

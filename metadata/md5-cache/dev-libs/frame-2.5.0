@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DEPEND=app-text/asciidoc X? ( x11-base/xorg-proto x11-base/xorg-server x11-libs/libdrm x11-libs/libX11 x11-libs/libXext x11-libs/libXi x11-libs/pixman ) virtual/pkgconfig
+DESCRIPTION=Frame handles the buildup and synchronization of a set of simultaneous touches.
+EAPI=7
+HOMEPAGE=https://launchpad.net/frame
+IUSE=X
+KEYWORDS=~amd64
+LICENSE=GPL-3 LGPL-3
+RDEPEND=app-text/asciidoc X? ( x11-base/xorg-proto x11-base/xorg-server x11-libs/libdrm x11-libs/libX11 x11-libs/libXext x11-libs/libXi x11-libs/pixman )
+SLOT=0
+SRC_URI=https://launchpad.net/frame/trunk/v2.5.0/+download/frame-2.5.0.tar.xz
+_md5_=3b79f045be6bdba18fb1b412e929f71e

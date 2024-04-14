@@ -1,0 +1,13 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install test unpack
+DESCRIPTION=Connect to your mattermost or slack using your IRC-client of choice.
+EAPI=7
+HOMEPAGE=https://github.com/42wim/matterircd
+INHERIT=golang-build golang-vcs-snapshot
+KEYWORDS=~amd64 ~arm
+LICENSE=MIT
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/42wim/matterircd/archive/v0.27.0.tar.gz -> matterircd-0.27.0.tar.gz
+_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	b689e250dc38d720b04019511cd5806f	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	288c54efeb5e2aa70775e39032695ad4	go-env	14f8f70fe58c14d7ab44fff15a05ac47	golang-vcs-snapshot	85de4c0ee156326f54c6d16f8ab529d1
+_md5_=c5d26997a2789792a1be30afea550e32
