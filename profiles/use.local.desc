@@ -15,24 +15,3 @@ net-firewall/vallumd:ipset - Use net-firewall/ipset.
 net-firewall/vallumd:nftables - Use net-libs/libnftnl.
 net-libs/tdlib:jni - Enable native Java interface through JNI
 net-libs/tdlib:lto - Build with link time optimization (LTO)
-net-misc/cgminer-alt:adl - Enable support for controlling fans and overclocking on AMD cards with AMD Display Library
-net-misc/cgminer-alt:avalon - Enable support for mining with Avalon ASICs
-net-misc/cgminer-alt:bflsc - Enable support for mining with Butterfly Labs ASICs
-net-misc/cgminer-alt:bitforce - Enable support for mining with ButterFly Labs BitFORCE FPGAs
-net-misc/cgminer-alt:blake256 - Enable support for Blake256 mining algorithm
-net-misc/cgminer-alt:icarus - Enable support for mining with Icarus FPGAs
-net-misc/cgminer-alt:modminer - Enable support for ModMiner FPGAs
-net-misc/cgminer-alt:opencl - Enable support for mining with OpenCL-capable devices (GPUs)
-net-misc/cgminer-alt:scrypt - Enable support for scrypt mining algorithm
-net-misc/cgminer-alt:ztex - Enable support for mining with Ztex FPGAs
-net-misc/sgminer:adl - Enable support for controlling fans and overclocking on AMD cards with AMD Display Library
-net-misc/sgminer:opencl - Enable support for mining with OpenCL-capable devices (GPUs)
-net-misc/sgminer:scrypt - Enable support for scrypt mining algorithm
-net-p2p/fedoracoin-qt:qrcode - Enable generation of QR Codes for receiving payments
-net-p2p/fedoracoind:logrotate - Install support files for app-admin/logrotate
-net-p2p/nix-qt:asm - Enable assembly for optimization
-net-p2p/nix-qt:qrcode - Enable generation of QR Codes for receiving payments
-net-p2p/nix-qt:system-leveldb - Use the system-wide dev-libs/leveldb instead of bundled
-net-p2p/nix-qt:upnp - Enable Universal Plug and Play
-net-p2p/nix-qt:wallet - Enable wallet support
-net-p2p/nix-qt:zeromq - Report blocks and transactions via zeromq
