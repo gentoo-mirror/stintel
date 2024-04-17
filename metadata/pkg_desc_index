@@ -46,5 +46,3 @@ net-misc/cpuminer-gr-avx2 1.2.4.1: Optimised Version of GR miner for RTM
 net-misc/piaware 6.1: Client-side package and programs for forwarding ADS-B data to FlightAware
 sys-auth/solo2-cli 0.2.0: Library and CLI for the SoloKeys Solo 2 security key
 x11-misc/qmqtt-client 0.2.1: MQTT Client GUI Written with Qt
-x11-misc/touchegg 1.1.1: Multitouch gesture recognizer
-x11-misc/touchegg-gui 1.1.1: Multitouch gesture recognizer

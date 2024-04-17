@@ -36,4 +36,3 @@ net-p2p/nix-qt:system-leveldb - Use the system-wide dev-libs/leveldb instead of 
 net-p2p/nix-qt:upnp - Enable Universal Plug and Play
 net-p2p/nix-qt:wallet - Enable wallet support
 net-p2p/nix-qt:zeromq - Report blocks and transactions via zeromq
-x11-libs/geis:evemu - Support Linux input device recording playback
