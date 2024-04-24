@@ -11,8 +11,6 @@ app-misc/dcrwallet 2.0.2: dcrwallet
 app-misc/qmqtt 1.0.0: MQTT Client for Qt
 app-shells/oh-my-posh 8.36.4: A prompt theme engine for any shell.
 dev-embedded/espflash 3.0.0: A command-line tool for flashing Espressif devices
-dev-libs/frame 2.5.0: Frame handles the buildup and synchronization of a set of simultaneous touches.
-dev-libs/grail 3.1.1: Gesture Recognition And Instantiation Library
 dev-python/django-environ 0.4.5: 12factor inspired environment variables for your Django project
 dev-python/django-github-hook 0.2.1: Configurable post-receive webhook handler, implemented as a Django app
 dev-python/kubernetes 24.2.0: Python client for kubernetes
