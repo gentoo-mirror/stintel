@@ -15,3 +15,6 @@ net-firewall/vallumd:ipset - Use net-firewall/ipset.
 net-firewall/vallumd:nftables - Use net-libs/libnftnl.
 net-libs/tdlib:jni - Enable native Java interface through JNI
 net-libs/tdlib:lto - Build with link time optimization (LTO)
+net-wireless/readsb-protobuf:bladerf - Build with BladeRF support
+net-wireless/readsb-protobuf:plutosdr - Build with PlutoSDR support
+net-wireless/readsb-protobuf:rtlsdr - Build with RTLSDR support
