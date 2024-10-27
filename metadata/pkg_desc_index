@@ -38,7 +38,7 @@ net-im/dendrite 0.13.7 9999: Dendrite is a second-generation Matrix homeserver w
 net-im/slack-libpurple 9999: Slack module for libpurple
 net-im/tdlib-purple 9999: New libpurple plugin for Telegram
 net-irc/matterircd 0.27.0: Connect to your mattermost or slack using your IRC-client of choice.
-net-libs/tdlib 1.8.0: Cross-platform library for building Telegram clients
+net-libs/tdlib 1.8.35: Cross-platform library for building Telegram clients
 net-misc/auditd-forwarder 9999: Forward auditd events over MQTT
 net-misc/ccminer 2.3.1: Bitcoin CPU/GPU/FPGA miner in C
 net-misc/cpuminer-gr-avx2 1.2.4.1: Optimised Version of GR miner for RTM
