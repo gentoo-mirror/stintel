@@ -27,6 +27,7 @@ dev-util/diesel_cli 2.0.1: Provides the CLI for the Diesel crate
 dev-util/flamegraph 0.6.5: Easy flamegraphs for Rust projects and everything else, without Perl or pipes
 dev-util/sqlx-cli 0.7.4: Command-line utility for SQLx, the Rust SQL toolkit.
 dev-util/wasm-pack 0.12.1: Your favorite rust -> wasm workflow tool!
+media-video/neolink 0.6.2: A standards-compliant bridge to Reolink IP cameras
 net-analyzer/f2b 0.5-r1: lightweight automatic anti-bot turret for your public serivces
 net-analyzer/flent 2.0.1: The FLExible Network Tester
 net-analyzer/nagios-check-hddtemp 1.5.1: A Nagios-plugin to check HDD temperatures
