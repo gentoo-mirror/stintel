@@ -34,7 +34,7 @@ net-analyzer/nagios-check-hddtemp 1.5.1: A Nagios-plugin to check HDD temperatur
 net-analyzer/nagios-check_mqtt 9999: A Nagios/Icinga plugin for testing an MQTT broker
 net-analyzer/weakforced 2.8.0: Anti-Abuse for servers at authentication time
 net-firewall/vallumd 0.1.5 0.2.1 9999: Centralize or distribute IP blacklists
-net-im/dendrite 0.13.8 9999: Dendrite is a second-generation Matrix homeserver written in Go!
+net-im/dendrite 0.14.1 9999: Dendrite is a second-generation Matrix homeserver written in Go!
 net-im/slack-libpurple 9999: Slack module for libpurple
 net-im/tdlib-purple 9999: New libpurple plugin for Telegram
 net-irc/matterircd 0.27.0: Connect to your mattermost or slack using your IRC-client of choice.
