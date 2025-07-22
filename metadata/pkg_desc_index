@@ -41,7 +41,7 @@ net-misc/auditd-forwarder 9999: Forward auditd events over MQTT
 net-misc/ccminer 2.3.1: Bitcoin CPU/GPU/FPGA miner in C
 net-misc/cpuminer-gr-avx2 1.2.4.1: Optimised Version of GR miner for RTM
 net-misc/piaware 6.1: Client-side package and programs for forwarding ADS-B data to FlightAware
-net-wireless/readsb-protobuf 4.0.3: Readsb is a Mode-S/ADSB/TIS decoder
+net-wireless/readsb-protobuf 4.0.4: Readsb is a Mode-S/ADSB/TIS decoder
 sys-auth/solo2-cli 0.2.0: Library and CLI for the SoloKeys Solo 2 security key
 sys-boot/pyamlboot 1.0.0: Amlogic SoC USB Boot utility
 x11-misc/qmqtt-client 0.2.1: MQTT Client GUI Written with Qt
