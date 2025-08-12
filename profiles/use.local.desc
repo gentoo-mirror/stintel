@@ -7,7 +7,6 @@ net-analyzer/f2b:client - Simple client for configuring daemon
 net-analyzer/f2b:csocket - Unix control socket support for daemon
 net-analyzer/f2b:mcast - Build mcast source/backend
 net-analyzer/f2b:redis - Build redis source/backend
-net-analyzer/flent:plots - Enable drawing plots
 net-analyzer/weakforced:dns - Enable DNS resolver via net-dns/getdns
 net-analyzer/weakforced:sodium - Use dev-libs/libsodium for cryptography
 net-analyzer/weakforced:trackalert - Build Trackalert service
